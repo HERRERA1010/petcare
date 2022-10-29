@@ -1,0 +1,18 @@
+:root {
+   --color-principal: #e3b048;
+   --texto-general: #fff;
+
+
+}
+.navbar-nav a{
+    color: var(--texto-general);
+}
+
+.navbar-color{
+    background-color: var(--color-principal) ;
+   
+}
+
+body{
+    background-color: darkblue;
+}
